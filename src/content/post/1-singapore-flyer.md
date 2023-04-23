@@ -5,7 +5,7 @@ description: We explore the base of the observation wheel, which is a rainforest
 trip: Singapore 2017
 place: South East Asia
 timezone: Asia/Singapore
-location: So Sofitel
+location: Singapore Flyer
 image: ../../assets/gallery/1-singapore-flyer/Chris, Singapore Flyer (5).jpeg
 gallery: 1-singapore-flyer
 map: [1.28941,103.86313,17]
