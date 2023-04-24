@@ -8,7 +8,12 @@ end: 2017-11-15T09:00:00+08:00
 description: We visited Singapore in 7-15 November 2017, to visit tourist attractions and also catch up with my school friends and family.
 image: ../../assets/trip.jpeg
 tags:
-  - Singapore
+  - LEGOLand
+  - Botanic Gardens
+  - Universal Studios
+  - Marina Bay
+  - Suntec City
+  - Sentosa
 ---
 We haven’t visited Singapore since 2012 (stopover on our trip to Germany) so this was an opportunity to visit Singapore’s many tourist attractions and also catch up with my school friends and cousin and her family.
 
