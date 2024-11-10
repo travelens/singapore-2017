@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-miniland-philippines/Bolinao Phillipines (1).jpeg
 gallery: 1-legoland-miniland-philippines
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - Philippines
@@ -18,6 +18,6 @@ tags:
   - theme park
   - MINILand
   - Johor
-
 ---
+
 The beauty of Bolinao, a thriving fishing town on the coast of Luzon Island in the Philippines, makes it a popular tourist attraction. Within the town centre is the Church of St. James the Great, built in 1609, and Bolinao offers scenic beaches and waterways with colourful fishing boats.

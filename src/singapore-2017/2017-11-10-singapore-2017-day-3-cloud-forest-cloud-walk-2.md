@@ -15,8 +15,8 @@ tags:
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 The final part of the attraction is an underworld Secret Garden.
 
 <div class="gb-container gb-container-b23f222b alignfull">

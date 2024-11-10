@@ -15,9 +15,7 @@ tags:
   - family
   - Sentosa
   - Singapore
-
 ---
- 
 
 After lunch we took a taxi to Mt Faber to catch the [Sentosa Cable Car][1] to [Sentosa Island][2] (great tip from the hotel concierge as there was less of a queue there than on Harbourfront Station).
 
@@ -1331,5 +1329,5 @@ After lunch we took a taxi to Mt Faber to catch the [Sentosa Cable Car][1] to [S
   </div>
 </div>
 
- [1]: https://www.onefabergroup.com/singapore-cable-car-sky-network/
- [2]: https://www.sentosa.com.sg
+[1]: https://www.onefabergroup.com/singapore-cable-car-sky-network/
+[2]: https://www.sentosa.com.sg

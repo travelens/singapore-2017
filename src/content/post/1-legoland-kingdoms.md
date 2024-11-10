@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-kingdoms/Castle door.jpeg
 gallery: 1-legoland-kingdoms
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - Kingdoms
@@ -17,6 +17,6 @@ tags:
   - Malaysia
   - theme park
   - Johor
-
 ---
+
 Explore the legendary folklore of fearsome dragons and fearless knights.

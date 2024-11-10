@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-miniland-indonesia/Purah Tanah Lot Indonesia (5).jpeg
 gallery: 1-legoland-miniland-indonesia
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - Indonesia
@@ -18,6 +18,6 @@ tags:
   - theme park
   - MINILand
   - Johor
-
 ---
+
 A popular tourist and cultural icon, this beautiful temple built on a rock formation on the coast of Bali, Indonesia can only be reached at low tide. When the tide rises, the landmark amazingly becomes an island of stunning natural beauty. It’s an architectural splendour surrounded by water.

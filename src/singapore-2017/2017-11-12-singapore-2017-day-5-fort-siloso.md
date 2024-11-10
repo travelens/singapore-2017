@@ -15,8 +15,8 @@ tags:
   - historic
   - Sentosa
   - Singapore
-
 ---
+
 The final attraction at Sentosa that we visited was Fort Siloso, located at Siloso Point Station via cable car. There is a big&nbsp;11-storey, 181m Skywalk that connects the station to Fort Siloso.
 
 Fort Siloso was built in the late 19th century and stands a historical site today. The only preserved coastal fort in Singapore, it is home to a wealth of WWII memorabilia, including coastal guns and the remains of fortified military structures and tunnels.

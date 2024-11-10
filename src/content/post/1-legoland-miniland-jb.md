@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-miniland-jb/Johor Tourism Information Centre (1).jpeg
 gallery: 1-legoland-miniland-jb
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - Johor Bahru
@@ -18,8 +18,8 @@ tags:
   - theme park
   - MINILand
   - Johor
-
 ---
+
 ## MINILand
 
 At the heart of every LEGOLAND® is the much-loved true-to-life miniature version of Asia’s iconic landmarks.

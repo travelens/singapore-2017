@@ -8,16 +8,15 @@ timezone: Asia/Singapore
 location: Xperience
 image: ../../assets/gallery/5-family-lunch/So Sofitel lunch.jpeg
 gallery: 5-family-lunch
-map: [1.28001,103.84908,17]
+map: [1.28001, 103.84908, 17]
 tags:
   - family
   - hotel
   - lunch
   - Singapore
   - So Sofitel
-
 ---
+
 We waited for Lyn&#8217;s parents to arrive, then had lunch at the [Xperience][1] restaurant at our hotel.
 
- [1]: https://www.sofitel-so-singapore.com/wine-dine/xperience-restaurant/
- 
+[1]: https://www.sofitel-so-singapore.com/wine-dine/xperience-restaurant/

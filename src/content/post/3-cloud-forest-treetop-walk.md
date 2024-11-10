@@ -8,15 +8,15 @@ timezone: Asia/Singapore
 location: Cloud Forest
 image: ../../assets/gallery/3-cloud-forest-treetop-walk/Cloud Walk (4).jpeg
 gallery: 3-cloud-forest-treetop-walk
-map: [1.28387,103.86604,18]
+map: [1.28387, 103.86604, 18]
 tags:
   - attraction
   - Cloud Forest
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 We walked on the Treetop Walk which leads into the Secret Garden.
 
 From the foot of the mountain, we can see the luxuriant forest canopy sprawling across the Tree Top Walk.

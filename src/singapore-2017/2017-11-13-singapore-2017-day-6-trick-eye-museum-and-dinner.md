@@ -10,8 +10,8 @@ categories:
 tags:
   - 2017
   - Singapore
-
 ---
+
 [Trick Eye Museum Singapore][1], is a 3D optical art museum originally from Korea, where one can pose in front of the art and take photos that appear to immerse the subject within artwork. The Singapore version features Augmented Reality (AR) features to its exhibits that brings its art installations and paintings to life. We didn&#8217;t use the AR feature as we found it was quite tricky to activate and in many cases did not really bring that much extra into the scene. There are six themed zones at the museum.
 
 <div class="gb-container gb-container-24f6a642 alignfull">
@@ -2320,5 +2320,5 @@ After Trick Eye Museum, my friend Siew Ching picked us up for dinner at [Peramak
   <figure class="aligncenter size-large"><img loading="lazy" width="1024" height="654" src="https://travel.christham.net/wp-content/uploads/2017/11/DSC06363-1024x654.jpg" alt="" class="wp-image-9927" srcset="https://travel.christham.net/wp-content/uploads/2017/11/DSC06363-1024x654.jpg 1024w, https://travel.christham.net/wp-content/uploads/2017/11/DSC06363-300x192.jpg 300w, https://travel.christham.net/wp-content/uploads/2017/11/DSC06363-768x491.jpg 768w, https://travel.christham.net/wp-content/uploads/2017/11/DSC06363-1536x982.jpg 1536w, https://travel.christham.net/wp-content/uploads/2017/11/DSC06363-2048x1309.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </div>
 
- [1]: https://www.rwsentosa.com/en/attractions/trick-eye-museum
- [2]: http://peramakan.com
+[1]: https://www.rwsentosa.com/en/attractions/trick-eye-museum
+[2]: http://peramakan.com

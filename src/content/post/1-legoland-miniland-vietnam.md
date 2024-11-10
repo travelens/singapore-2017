@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-miniland-vietnam/Hoi An Vietnam.jpeg
 gallery: 1-legoland-miniland-vietnam
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - Vietnam
@@ -18,6 +18,6 @@ tags:
   - theme park
   - MINILand
   - Johor
-
 ---
+
 Once a major Southeast Asian trading post in the 16th and 17th centuries, the seaside Hoi An town is basically a living museum featuring a unique mixture of East and West in the form of its old-town architecture. Now a UNESCO World Heritage Site, Hoi An is a popular tourist attraction with its historical buildings, picturesque beaches, retail hub and restaurants by the sea.

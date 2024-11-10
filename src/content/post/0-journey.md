@@ -8,13 +8,13 @@ timezone: Asia/Singapore
 location: So Sofitel
 image: ../../assets/gallery/0-journey/Suitcase.jpeg
 gallery: 0-journey
-map: [1.28001,103.84908,17]
+map: [1.28001, 103.84908, 17]
 tags:
   - Qantas
   - Singapore
   - Lau Pa Sat
-
 ---
+
 Well this is it! Our trip to Singapore after 5 years! Bag all packed and ready to go!
 
 ![Suitcase](../../assets/gallery/0-journey/Suitcase.jpeg)
@@ -41,5 +41,5 @@ I wasn't very hungry, so I ended up eating a small bowl of Teochew Fishball and 
 
 ![Teochew Fishball and Fishcake noodle soup](../../assets/gallery/0-journey/Kuay_teow_thong.jpeg)
 
- [1]: https://www.sofitel-so-singapore.com
- [2]: https://en.wikipedia.org/wiki/Lau_Pa_Sat
+[1]: https://www.sofitel-so-singapore.com
+[2]: https://en.wikipedia.org/wiki/Lau_Pa_Sat

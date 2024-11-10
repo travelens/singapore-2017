@@ -15,8 +15,8 @@ tags:
   - lunch
   - Singapore
   - So Sofitel
-
 ---
+
 We waited for Lyn&#8217;s parents to arrive, then had lunch at the [Xperience][1] restaurant at our hotel.
 
 <div class="gb-container gb-container-ebc0a0e9 alignfull">
@@ -70,4 +70,4 @@ We waited for Lyn&#8217;s parents to arrive, then had lunch at the [Xperience][1
   </li>
 </ul></figure>
 
- [1]: https://www.sofitel-so-singapore.com/wine-dine/xperience-restaurant/
+[1]: https://www.sofitel-so-singapore.com/wine-dine/xperience-restaurant/

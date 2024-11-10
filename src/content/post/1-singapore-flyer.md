@@ -8,13 +8,13 @@ timezone: Asia/Singapore
 location: Singapore Flyer
 image: ../../assets/gallery/1-singapore-flyer/Chris, Singapore Flyer (5).jpeg
 gallery: 1-singapore-flyer
-map: [1.28941,103.86313,17]
+map: [1.28941, 103.86313, 17]
 tags:
   - attraction
   - Singapore
   - Singapore Flyer
-
 ---
+
 First Day in Singapore, or Malaysia rather! Our plan is to head to the Singapore Flyer, before boarding a bus to LEGOLand in Malaysia.
 
 By the way, this is what breakfast looks like at the hotel (a fantastic buffet selection):
@@ -36,5 +36,5 @@ The wheel commenced operation in 2008 (just before the Great Financial Crisis). 
 
 Singapore Flyer is a prominent landmark of Singapore. It is featured in a few films, most notably Crazy Rich Asians.
 
- [1]: https://www.legoland.com.my
- [2]: http://www.singaporeflyer.com
+[1]: https://www.legoland.com.my
+[2]: http://www.singaporeflyer.com

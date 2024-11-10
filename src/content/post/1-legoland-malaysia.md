@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-malaysia/Tickets.jpeg
 gallery: 1-legoland-malaysia
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - Johor
@@ -16,8 +16,8 @@ tags:
   - LEGOLAND
   - Malaysia
   - theme park
-
 ---
+
 In 2012, the 1st LEGOLAND in Asia and 1st International Park in Malaysia, LEGOLAND Malaysia, opened. It is the sixth LEGOLand park, taking visitors across Asia on a “brick-tastic” journey of LEGO adventures.
 
 [The theme park home page can be accessed by clicking here.](https://www.legoland.com.my/)

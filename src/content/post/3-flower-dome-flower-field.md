@@ -8,15 +8,15 @@ timezone: Asia/Singapore
 location: Flower Dome
 image: ../../assets/gallery/3-flower-dome-flower-field/Xmas (3).jpeg
 gallery: 3-flower-dome-flower-field
-map: [1.28453,103.86469,18]
+map: [1.28453, 103.86469, 18]
 tags:
   - attraction
   - Flower Dome
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 The changing floral displays in Flower Dome reflect different seasons, festivals, and themes.
 
 When we visited, the Flower Field had many Christmas decorations and displays

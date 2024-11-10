@@ -13,8 +13,8 @@ tags:
   - attraction
   - Singapore
   - Singapore Flyer
-
 ---
+
 First Day in Singapore, or Malaysia rather! By the way, this is what breakfast looks like at the hotel:<figure class="wp-block-gallery columns-2 is-cropped">
 
 <ul class="blocks-gallery-grid">
@@ -24,7 +24,7 @@ First Day in Singapore, or Malaysia rather! By the way, this is what breakfast l
   <li class="blocks-gallery-item">
     <figure><img loading="lazy" width="1024" height="1024" src="http://staging.christham.net/wp-content/uploads/2017/11/IMG_6143-1024x1024.jpg" alt="" data-id="6796" data-full-url="http://staging.christham.net/wp-content/uploads/2017/11/IMG_6143.jpg" data-link="http://staging.christham.net/singapore-2017-day-0-flight-and-arrival/img_6143/" class="wp-image-6796" srcset="https://travel.christham.net/wp-content/uploads/2017/11/IMG_6143-1024x1024.jpg 1024w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6143-300x300.jpg 300w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6143-150x150.jpg 150w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6143-768x768.jpg 768w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6143-1536x1536.jpg 1536w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6143-2048x2048.jpg 2048w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6143-600x600.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
   </li>
-</ul></figure> 
+</ul></figure>
 
 The rest of the day was to be spent at [LEGOLAND Malaysia][1], and we have already booked two seats on a tour bus to get there. We were picked up at the hotel around 8am and taken to [Singapore Flyer][2] where the tour bus departs.
 
@@ -492,5 +492,5 @@ Having about 30 mins to kill, we decided to explore the base of the observation 
   </div>
 </div>
 
- [1]: https://www.legoland.com.my
- [2]: http://www.singaporeflyer.com
+[1]: https://www.legoland.com.my
+[2]: http://www.singaporeflyer.com

@@ -8,15 +8,15 @@ timezone: Asia/Singapore
 location: Cloud Forest
 image: ../../assets/gallery/3-cloud-forest-lost-world/Lost World (2).jpeg
 gallery: 3-cloud-forest-lost-world
-map: [1.28387,103.86604,18]
+map: [1.28387, 103.86604, 18]
 tags:
   - attraction
   - Cloud Forest
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 The highest point of the mountain is entitled “Lost World.” Here there are some interesting LEGO sculptures set on an artificial pond.
 
 There are some unusual vegetation native to cloud forest habitats, typically found at some 2,000 metres above sea level. The section also features carnivorous plants such as pitcher plants and Venus Flytraps set against a verdant carpet of delicate ferns and mosses, set against a backdrop of spectacular views of the Marina Bay waterfront.

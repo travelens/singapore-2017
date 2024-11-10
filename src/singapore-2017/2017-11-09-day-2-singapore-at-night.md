@@ -14,9 +14,7 @@ tags:
   - family
   - night
   - Singapore
-
 ---
- 
 
 After dinner they drove us back to Raffles City where we walked around at night taking photos of the various buildings.
 

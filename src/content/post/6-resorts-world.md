@@ -8,11 +8,11 @@ timezone: Asia/Singapore
 location: Resorts World
 image: ../../assets/gallery/6-resorts-world/Lake of Dreams.jpeg
 gallery: 6-resorts-world
-map: [1.2555,103.8210,16]
+map: [1.2555, 103.8210, 16]
 tags:
   - attraction
   - Sentosa
   - Singapore
-
 ---
+
 In the afternoon, we headed back to Resorts World via the Sentosa Express monorail, to visit the Trick Eye Museum. Here are some photos taken on the main area in Resorts World around the Bull Ring and the Lake of Dreams.

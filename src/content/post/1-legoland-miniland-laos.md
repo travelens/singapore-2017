@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-miniland-laos/Patuxai Laos (3).jpeg
 gallery: 1-legoland-miniland-laos
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - Laos
@@ -18,6 +18,6 @@ tags:
   - theme park
   - MINILand
   - Johor
-
 ---
+
 The Patuxai Victory Monument built between 1957 and 1968 stands impressively on the Vientiane skyline. At the top of the landmark are five ornate towers designed in the traditional Laos style motifs that pay homage to its natural culture and traditions.

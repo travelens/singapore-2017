@@ -12,8 +12,8 @@ tags:
   - 2017
   - friends
   - Singapore
-
 ---
+
 We caught up with two old classmates from school today &#8211; Ai Bee and Siew Ching &#8211; I haven&#8217;t met them in over 30 days so I was excited and nervous at the same time. I was wondering whether I&#8217;ll even recognise them but after a few moments of hesitation it was like the years in between simply disappeared and we spent a large part of the day reminiscing about our school days. We updated each other on what has happened in the intervening years and by coincidence all three of us have ended up in the finance industry.
 
 <div class="nextgen_pro_blog_gallery" id="displayed_gallery_339ed2d6862d079f2ccf3f56eec1b468">
@@ -50,7 +50,7 @@ Siew Ching took us to [Kopi Tiam at Swissôtel The Stamford][1] within the Raffl
   <li class="blocks-gallery-item">
     <figure><img loading="lazy" width="1024" height="1024" src="https://travel.christham.net/wp-content/uploads/2018/04/IMG_6182-1024x1024.jpg" alt="" data-id="6801" data-full-url="https://travel.christham.net/wp-content/uploads/2018/04/IMG_6182.jpg" data-link="https://travel.christham.net/singapore-2017-day-2-catching-up-with-friends/img_6182/" class="wp-image-6801" srcset="https://travel.christham.net/wp-content/uploads/2018/04/IMG_6182-1024x1024.jpg 1024w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6182-300x300.jpg 300w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6182-150x150.jpg 150w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6182-768x768.jpg 768w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6182-1536x1536.jpg 1536w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6182-2048x2048.jpg 2048w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6182-600x600.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
   </li>
-</ul></figure> 
+</ul></figure>
 
 After lunch we walked towards [St. Andrew&#8217;s Cathedral][2] which is the largest cathedral in Singapore.
 
@@ -172,7 +172,7 @@ After lunch we walked towards [St. Andrew&#8217;s Cathedral][2] which is the lar
   </div>
 </div><figure class="wp-block-image">
 
-[<img src="https://travel.christham.net/wp-content/uploads/2018/04/DSC02322-683x1024.jpg" alt="" class="wp-image-6841" />][3]</figure> 
+[<img src="https://travel.christham.net/wp-content/uploads/2018/04/DSC02322-683x1024.jpg" alt="" class="wp-image-6841" />][3]</figure>
 
 <div class="wp-block-image">
   <figure class="aligncenter"><a href="https://travel.christham.net/wp-content/uploads/2018/04/DSC02319.jpg"><img loading="lazy" width="683" height="1024" src="https://travel.christham.net/wp-content/uploads/2018/04/DSC02319-683x1024.jpg" alt="" class="wp-image-6840" srcset="https://travel.christham.net/wp-content/uploads/2018/04/DSC02319-683x1024.jpg 683w, https://travel.christham.net/wp-content/uploads/2018/04/DSC02319-200x300.jpg 200w, https://travel.christham.net/wp-content/uploads/2018/04/DSC02319-768x1152.jpg 768w, https://travel.christham.net/wp-content/uploads/2018/04/DSC02319-1024x1536.jpg 1024w, https://travel.christham.net/wp-content/uploads/2018/04/DSC02319-1366x2048.jpg 1366w, https://travel.christham.net/wp-content/uploads/2018/04/DSC02319-600x900.jpg 600w, https://travel.christham.net/wp-content/uploads/2018/04/DSC02319.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></a></figure>
@@ -186,7 +186,7 @@ Outside the Adelphi, I saw a sign that pretty much says it all!
   <figure class="aligncenter"><a href="https://travel.christham.net/wp-content/uploads/2018/04/IMG_6185.jpg"><img loading="lazy" width="300" height="300" src="https://travel.christham.net/wp-content/uploads/2018/04/IMG_6185-300x300.jpg" alt="" class="wp-image-6804" srcset="https://travel.christham.net/wp-content/uploads/2018/04/IMG_6185-300x300.jpg 300w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6185-1024x1024.jpg 1024w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6185-150x150.jpg 150w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6185-768x768.jpg 768w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6185-1536x1536.jpg 1536w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6185-2048x2048.jpg 2048w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6185-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
 </div>
 
- [1]: https://www.swissotel.com/hotels/singapore-stamford/dining/kopi-tiam/
- [2]: https://cathedral.org.sg
- [3]: https://travel.christham.net/wp-content/uploads/2018/04/DSC02322.jpg
- [4]: http://theadelphi.sg
+[1]: https://www.swissotel.com/hotels/singapore-stamford/dining/kopi-tiam/
+[2]: https://cathedral.org.sg
+[3]: https://travel.christham.net/wp-content/uploads/2018/04/DSC02322.jpg
+[4]: http://theadelphi.sg

@@ -16,8 +16,8 @@ tags:
   - Racines
   - Singapore
   - Singapore Sofitel
-
 ---
+
 After that, we returned back to the main island via cable car. For dinner, we went to the [Racines][1] restaurant at the brand new [Sofitel Singapore City Centre][2]. This is a French-Asian fusion restaurant and we tried the French degustation menu.
 
 <div class="gb-container gb-container-664253c3 alignfull">
@@ -378,5 +378,5 @@ After that, we returned back to the main island via cable car. For dinner, we we
   </div>
 </div>
 
- [1]: https://www.sofitel-singapore-citycentre.com/gastronomy/racines/
- [2]: https://www.sofitel-singapore-citycentre.com
+[1]: https://www.sofitel-singapore-citycentre.com/gastronomy/racines/
+[2]: https://www.sofitel-singapore-citycentre.com

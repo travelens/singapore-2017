@@ -14,8 +14,8 @@ tags:
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 After vising the impressive Cloud Forest, we headed into the second of Gardens by the Bay&#8217;s gigantic domes. This one is called [Flower Dome][1], and it is supposedly the largest glass greenhouse in the world. It showcases plants and flowers from five continents in nine gardens. We started by exploring the succulent garden and the Baobab garden. The former features some Alice in Wonderland sculptures.
 
 <div class="gb-container gb-container-9c1114fa alignfull">
@@ -998,4 +998,4 @@ After vising the impressive Cloud Forest, we headed into the second of Gardens b
   </div>
 </div>
 
- [1]: http://www.gardensbythebay.com.sg/en/attractions/flower-dome/visitor-information.html
+[1]: http://www.gardensbythebay.com.sg/en/attractions/flower-dome/visitor-information.html

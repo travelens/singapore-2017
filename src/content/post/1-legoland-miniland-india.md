@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-miniland-india/Taj Mahal (4).jpeg
 gallery: 1-legoland-miniland-india
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - India
@@ -18,6 +18,6 @@ tags:
   - theme park
   - MINILand
   - Johor
-
 ---
+
 The Taj Mahal is designated as a UNESCO World Heritage Site and is widely known as the jewel of Muslim art in India and one of the universally admired masterpieces of heritage. Built by Mughal emperor Shah Jahan in memory of his wife, the monument’s shimmering white marble takes on different colours during the day.

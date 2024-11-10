@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-miniland-myanmar/Karaweik Hall, Myanmar (2).jpeg
 gallery: 1-legoland-miniland-myanmar
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - Myanmar
@@ -18,6 +18,6 @@ tags:
   - theme park
   - MINILand
   - Johor
-
 ---
+
 Karaweik Hall is a palace on the eastern shore of Kandawgyi Lake, Yangon, Burma.

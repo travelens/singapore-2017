@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-miniland-brunei/Brunei (1).jpeg
 gallery: 1-legoland-miniland-brunei
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - Brunei
@@ -18,6 +18,6 @@ tags:
   - theme park
   - MINILand
   - Johor
-
 ---
+
 Spectacular describes the iconic royal mosque located in Bandar Seri Begawan, Brunei, named after the 28th Sultan of Brunei. As one of the most impressive examples of modern Islamic architecture in Southeast Asia, the mosque dominates the skyline of Brunei with its large dome covered in pure gold.

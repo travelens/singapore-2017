@@ -14,8 +14,8 @@ tags:
   - family
   - garden
   - Singapore
-
 ---
+
 We took a taxi to our cousin&#8217;s home and spent a nice morning exploring the [Botanic Gardens][1].
 
 The idea of a national garden in Singapore started in 1822 when Sir Stamford Raffles, the founder of modern Singapore and a keen naturalist, developed the first ‘Botanical and Experimental Garden’ at Fort Canning. It was only in 1859 that the Gardens at its present site was founded and laid out in the English Landscape Movement’s style by an Agri-Horticultural society. The Gardens was soon handed over to the British colonial government (in 1874) and a series of Kew-trained botanists saw the Gardens blossom into an important botanical institute over the following decades. Today, the Gardens is managed by the National Parks Board, a statutory board of the Singapore government.
@@ -1646,5 +1646,5 @@ Afterwards, we went to [Tiong Bahru Market and Food Centre][2] for lunch. Here w
   </li>
 </ul></figure>
 
- [1]: https://www.sbg.org.sg
- [2]: http://tiongbahru.market
+[1]: https://www.sbg.org.sg
+[2]: http://tiongbahru.market

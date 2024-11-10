@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-miniland-village-houses/Model of Village Houses (1).jpeg
 gallery: 1-legoland-miniland-village-houses
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - LEGO
@@ -17,8 +17,8 @@ tags:
   - theme park
   - MINILand
   - Johor
-
 ---
+
 I would have liked to see models of some of the other places in Malaysia, such as Penang or Mt Kinabalu. However, we only get to see representations of the other states via their traditional village house architecture.
 
 This features scenes depicting the day-to-day life of living in the villages of Malaysia.

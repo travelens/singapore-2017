@@ -15,8 +15,8 @@ tags:
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 Our final stop here is the Flower Field &#8211; which has many Christmas decorations and displays.
 
 After the Flower Dome, we stopped by at the hawker food centre nearby to have some dinner.

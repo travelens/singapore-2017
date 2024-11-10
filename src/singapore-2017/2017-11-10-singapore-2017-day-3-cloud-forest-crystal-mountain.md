@@ -15,8 +15,8 @@ tags:
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 After the Cloud Walk, we descended into the middle of the mountain where there were many crystals on display.
 
 <div class="gb-container gb-container-b23f222b alignfull">

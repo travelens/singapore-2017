@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-imagination/Dinosaur.jpeg
 gallery: 1-legoland-imagination
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - Imagination
@@ -17,6 +17,6 @@ tags:
   - Malaysia
   - theme park
   - Johor
-
 ---
+
 It’s movies, magic and music galore with DUPLO® inspired play zones for little heroes plus plenty of building, racing and sky-rising activities for big heroes alike.

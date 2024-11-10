@@ -11,8 +11,8 @@ categories:
 tags:
   - 2017
   - Singapore
-
 ---
+
 Well this is it! Our trip to Singapore after 5 years! Bag all packed and ready to go!
 
 <div class="wp-block-image">
@@ -28,7 +28,7 @@ We had breakfast at the Qantas Lounge before boarding QF81 at 11:15 to Singapore
   <li class="blocks-gallery-item">
     <figure><img loading="lazy" width="1024" height="1024" src="http://staging.christham.net/wp-content/uploads/2018/04/IMG_6118-1024x1024.jpg" alt="" data-id="6791" data-full-url="http://staging.christham.net/wp-content/uploads/2018/04/IMG_6118.jpg" data-link="http://staging.christham.net/singapore-2017-day-0-flight-and-arrival/img_6118/" class="wp-image-6791" srcset="https://travel.christham.net/wp-content/uploads/2018/04/IMG_6118-1024x1024.jpg 1024w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6118-300x300.jpg 300w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6118-150x150.jpg 150w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6118-768x768.jpg 768w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6118-1536x1536.jpg 1536w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6118-2048x2048.jpg 2048w, https://travel.christham.net/wp-content/uploads/2018/04/IMG_6118-600x600.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
   </li>
-</ul></figure> 
+</ul></figure>
 
 We arrived at Singapore around 5pm on Tuesday, checked into the beautiful [So Sofitel][1]&nbsp;located in the heart of the Financial District
 
@@ -138,5 +138,5 @@ I wasn&#8217;t very hungry, so I ended up eating a small bowl of Teochew Fishbal
   <figure class="aligncenter"><a href="https://travel.christham.net/wp-content/uploads/2017/11/IMG_6120.jpg"><img loading="lazy" width="1024" height="1024" src="https://travel.christham.net/wp-content/uploads/2017/11/IMG_6120-1024x1024.jpg" alt="" class="wp-image-6795" srcset="https://travel.christham.net/wp-content/uploads/2017/11/IMG_6120-1024x1024.jpg 1024w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6120-300x300.jpg 300w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6120-150x150.jpg 150w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6120-768x768.jpg 768w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6120-1536x1536.jpg 1536w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6120-2048x2048.jpg 2048w, https://travel.christham.net/wp-content/uploads/2017/11/IMG_6120-600x600.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </div>
 
- [1]: https://www.sofitel-so-singapore.com
- [2]: https://en.wikipedia.org/wiki/Lau_Pa_Sat
+[1]: https://www.sofitel-so-singapore.com
+[2]: https://en.wikipedia.org/wiki/Lau_Pa_Sat

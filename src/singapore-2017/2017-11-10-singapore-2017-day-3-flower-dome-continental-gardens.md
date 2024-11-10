@@ -15,8 +15,8 @@ tags:
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 After that, we wandered through the different continental gardens such as the Australian Garden, South African Garden, South American Garden, Mediterranean Garden and Californian Garden and finally the Olive Grove.
 
 <div class="gb-container gb-container-9c1114fa alignfull">

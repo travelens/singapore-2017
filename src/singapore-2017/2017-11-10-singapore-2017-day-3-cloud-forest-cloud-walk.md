@@ -15,8 +15,8 @@ tags:
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 After that, we walked down the Cloud Walk which provided fantastic views around the dome.
 
 <div class="gb-container gb-container-b23f222b alignfull">

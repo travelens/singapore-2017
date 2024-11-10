@@ -15,8 +15,8 @@ tags:
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 After that we took an elevator to the highest point of the mountain, entitled &#8220;Lost World.&#8221; Here there are some interesting LEGO sculptures set on an artificial pond.
 
 <div class="gb-container gb-container-b23f222b alignfull">

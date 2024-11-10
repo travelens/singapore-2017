@@ -13,8 +13,8 @@ tags:
   - dinner
   - family
   - Singapore
-
 ---
+
 At night my cousin Qui Yin and her husband Gordon picked us up from our hotel and took us to [New Ubin Seafood][1] restaurant for dinner. The dishes are really yummy, and it was good to catch up with my cousin and her husband as I have not seen them since the late 1990s.
 
 <div class="gb-container gb-container-abf1aa57 alignfull">
@@ -59,4 +59,4 @@ At night my cousin Qui Yin and her husband Gordon picked us up from our hotel an
   </li>
 </ul></figure>
 
- [1]: https://ubinseafood.com
+[1]: https://ubinseafood.com

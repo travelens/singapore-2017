@@ -13,8 +13,8 @@ tags:
   - attraction
   - Sentosa
   - Singapore
-
 ---
+
 In the afternoon, we headed back to Resorts World via the Sentosa Express monorail, to visit the Trick Eye Museum. Here are some photos taken on the main area in Resorts World around the Bull Ring and the Lake of Dreams.
 
 <div class="gb-container gb-container-c953389d alignfull">

@@ -8,13 +8,13 @@ timezone: Asia/Singapore
 location: Swissôtel The Stamford
 image: ../../assets/gallery/2-friends/Raffles City rickshaw (1).jpeg
 gallery: 2-friends
-map: [1.29330,103.85341,17]
+map: [1.29330, 103.85341, 17]
 tags:
   - friends
   - Singapore
   - Swissotel
-
 ---
+
 We caught up with two classmates/friends from school today – Ai Bee and Siew Ching – I haven’t met them in over 30 days so I was excited and nervous at the same time. I was wondering whether I’ll even recognise them but after a few moments of hesitation it was like the years in between simply disappeared and we spent a large part of the day reminiscing about our school days. We updated each other on what has happened in the intervening years and by coincidence all three of us have ended up in the finance industry.
 
 ![Friends](../../assets/gallery/2-friends/Lyn,Stephanie,Siew_Ching,Chris.jpeg)

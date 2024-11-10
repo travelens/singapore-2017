@@ -14,8 +14,8 @@ tags:
   - family
   - Sentosa
   - Singapore
-
 ---
+
 Sentosa Island has had an interesting history. During the British occupation, it was fortified and several forts were built on the island, including Fort Siloso which we visited. The island is formerly called &#8220;Pulau Belakang Mati&#8221; in Malay (literally, the &#8220;island where you die at the back&#8221;) which sounds rather ominous. In the 1970s the Singapore Government redeveloped it as a holiday resort, and now it&#8217;s accessible by monorail (Sentosa Express), cable car and causeway. There are now many attractions on the island, including beaches, Resorts World (containing Universal Studios Singapore which we visited yesterday), a much bigger version of the [Merlion][1] (that we could go inside), Madame Tussaud&#8217;s Was Museum, etc.
 
 <div class="gb-container gb-container-664253c3 alignfull">
@@ -344,4 +344,4 @@ Sentosa Island has had an interesting history. During the British occupation, it
   </div>
 </div>
 
- [1]: http://merlion.sentosa.com.sg
+[1]: http://merlion.sentosa.com.sg

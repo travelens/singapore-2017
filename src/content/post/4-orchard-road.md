@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: Orchard Road
 image: ../../assets/gallery/4-orchard-road/Orchard Road (1).jpeg
 gallery: 4-orchard-road
-map: [1.30082,103.84039,17]
+map: [1.30082, 103.84039, 17]
 tags:
   - Christmas
   - city
@@ -16,9 +16,9 @@ tags:
   - night
   - Orchard Rd
   - Singapore
-
 ---
+
 A lot of the shopping malls at [Orchard Road][1] have Christmas decorations and pop up stores. I particularly liked the Star Wars display at [Centrepoint][2].
 
- [1]: http://www.orchardroad.org
- [2]: http://www.thecentrepoint.com.sg
+[1]: http://www.orchardroad.org
+[2]: http://www.thecentrepoint.com.sg

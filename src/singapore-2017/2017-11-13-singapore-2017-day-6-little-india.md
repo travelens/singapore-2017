@@ -14,8 +14,8 @@ tags:
   - historic
   - Little India
   - Singapore
-
 ---
+
 We walked from our hotel this morning to the Chinatown Station, and decided to catch the MRT to [Little India][1]. This was originally an enclave designated by the British for Indian immigrants, and the main thoroughfare is the famous Serangoon Road. The area is famous for temples/mosques/churches, historical areas and many many Indian restaurants. We enjoyed walking through the area and the colourful buildings.
 
 <div class="gb-container gb-container-cc16c6a0 alignfull">
@@ -2176,4 +2176,4 @@ We walked from our hotel this morning to the Chinatown Station, and decided to c
   </div>
 </div>
 
- [1]: https://www.littleindia.com.sg
+[1]: https://www.littleindia.com.sg

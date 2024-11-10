@@ -16,5 +16,4 @@ tags:
   - LEGOLAND
   - Malaysia
   - theme park
-
 ---

@@ -8,7 +8,7 @@ timezone: Asia/Singapore
 location: LEGOLAND
 image: ../../assets/gallery/1-legoland-other/Train.jpeg
 gallery: 1-legoland-other
-map: [1.4277,103.6289,16]
+map: [1.4277, 103.6289, 16]
 tags:
   - attraction
   - LEGO
@@ -16,6 +16,6 @@ tags:
   - Malaysia
   - theme park
   - Johor
-
 ---
+
 Journey into the forgotten worlds of Pharoahs and dinosaurs. Plus LEGO City and LEGO Friends.

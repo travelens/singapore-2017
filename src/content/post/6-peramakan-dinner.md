@@ -8,14 +8,14 @@ timezone: Asia/Singapore
 location: Peramakan
 image: ../../assets/gallery/6-peramakan-dinner/Peramakan.jpeg
 gallery: 6-peramakan-dinner
-map: [1.34118,103.81056,17]
+map: [1.34118, 103.81056, 17]
 tags:
   - Singapore
   - Peramakan
   - Keppel Club
   - dinner
-
 ---
+
 [Peramakan][1] is a restaurant serving Peranakan food and it was delicious.
 
- [1]: http://peramakan.com
+[1]: http://peramakan.com

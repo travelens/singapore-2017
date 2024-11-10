@@ -11,8 +11,8 @@ categories:
 tags:
   - 2017
   - Singapore
-
 ---
+
 We visited Singapore in 7-15 November 2017. We haven&#8217;t visited Singapore since 2012 (stopover on our trip to Germany) so this was an opportunity to visit Singapore&#8217;s many tourist attractions and also catch up with my school friends and cousin and her family.<figure class="wp-block-table alignfull is-style-stripes">
 
 <table>
@@ -212,7 +212,7 @@ We visited Singapore in 7-15 November 2017. We haven&#8217;t visited Singapore s
       <a href="https://travel.christham.net/singapore-2017-day-7-orchard-road/" data-type="post" data-id="9932">Orchard Rd</a><br />Flight to Sydney
     </td>
   </tr>
-</table></figure> 
+</table></figure>
 
 <div class="gb-container gb-container-a1fcbc7d alignfull">
   <div class="gb-inside-container">

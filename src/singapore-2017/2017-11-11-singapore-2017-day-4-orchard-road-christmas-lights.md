@@ -16,8 +16,8 @@ tags:
   - night
   - Orchard Rd
   - Singapore
-
 ---
+
 We spent the evening at [Orchard Road][1] where a lot of the shopping malls have Christmas decorations and pop up stores. I particularly liked the Star Wars display at [Centrepoint][2].
 
 <div class="gb-container gb-container-8ef76f31 alignfull">
@@ -792,5 +792,5 @@ We spent the evening at [Orchard Road][1] where a lot of the shopping malls have
   </div>
 </div>
 
- [1]: http://www.orchardroad.org
- [2]: http://www.thecentrepoint.com.sg
+[1]: http://www.orchardroad.org
+[2]: http://www.thecentrepoint.com.sg

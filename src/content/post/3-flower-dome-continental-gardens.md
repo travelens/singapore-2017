@@ -8,15 +8,15 @@ timezone: Asia/Singapore
 location: Flower Dome
 image: ../../assets/gallery/3-flower-dome-continental-gardens/Sculpture (6).jpeg
 gallery: 3-flower-dome-continental-gardens
-map: [1.28453,103.86469,18]
+map: [1.28453, 103.86469, 18]
 tags:
   - attraction
   - Flower Dome
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 In the Flower Dome, we wandered through the different continental gardens such as the Australian Garden, South African Garden, South American Garden, Mediterranean Garden and Californian Garden and finally the Olive Grove.
 
 ## Australian Garden

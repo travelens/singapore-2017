@@ -15,8 +15,8 @@ tags:
   - garden
   - Gardens by the Bay
   - Singapore
-
 ---
+
 We then descended on a Treetop Walk.
 
 <div class="gb-container gb-container-b23f222b alignfull">
