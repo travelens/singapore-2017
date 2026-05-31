@@ -3,7 +3,7 @@
   "author": "Chris Tham (chris@christham.net)",
   "description": "We visited Singapore in 7-15 November 2017, to visit tourist attractions and also catch up with my school friends and family.",
   "license": "MIT",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
